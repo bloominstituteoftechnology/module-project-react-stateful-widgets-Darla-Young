@@ -18,11 +18,11 @@ This project includes a `frontend/components` folder containing several React co
 
 ### Task 1: Project Set Up
 
-- [ ] Clone the repository to your machine using your terminal.
-- [ ] CD into the project base directory.
-- [ ] Download project dependencies by running `npm install`.
-- [ ] Start up the app using `npm run dev`.
-- [ ] Push commits: `git push origin main`.
+- [x] Clone the repository to your machine using your terminal.
+- [x] CD into the project base directory.
+- [x] Download project dependencies by running `npm install`.
+- [x] Start up the app using `npm run dev`.
+- [x] Push commits: `git push origin main`.
 
 ### Task 2: Minimum Viable Product
 
@@ -32,9 +32,9 @@ This project includes a `frontend/components` folder containing several React co
 
 #### Steps
 
-- [ ] You will add functionality to all components inside inside `frontend/components`.
-- [ ] Work on the components **in the same order in which they display in Chrome** (to go from the easiest challenge to the hardest).
-- [ ] Each file includes a design file and a set of instructions. The instructions are generally the following:
+- [x] You will add functionality to all components inside inside `frontend/components`.
+- [x] Work on the components **in the same order in which they display in Chrome** (to go from the easiest challenge to the hardest).
+- [x] Each file includes a design file and a set of instructions. The instructions are generally the following:
   - Watch the design file showing the finished component, and think about how much state is needed.
   - Create the necessary slices of component state using the state hook.
   - Fix the JSX so it displays information derived from state (instead of hard-coded data).
@@ -42,4 +42,4 @@ This project includes a `frontend/components` folder containing several React co
 
 ## Submission Format
 
-- [ ] Submit a link to your repo in canvas.
+- [x] Submit a link to your repo in canvas.
